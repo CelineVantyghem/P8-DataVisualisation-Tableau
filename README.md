@@ -2,6 +2,8 @@
 
 Faites une étude sur l'eau potable avec Tableau
 
+Lien d'accès à l'histoire Tableau : https://public.tableau.com/views/Drinking_water_study/drinkingwaterstudy?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link
+
 Compétences :
   - Générer des graphiques adaptés aux types de données
   - Synthétiser des résultats à destination d'un client
